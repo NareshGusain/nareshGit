@@ -1,5 +1,5 @@
 Team Members:
-Dev1
-Dev2
-Dev3
-Manager
+Manager Sharukhali Syed
+Dev1:  Aman Singh
+Dev2:  Naresh Gusain
+Dev3:  Ananta Pandey
