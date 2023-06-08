@@ -8,7 +8,6 @@ In this exercise we will role play as team of 4 and practice git workflows.
 3. follow the speakers instructions.
 4. enjoy your learning!
 this is sharukhali syed
-
 5.Along with the team members aman,naresh and ananta
 
 ## commands 
