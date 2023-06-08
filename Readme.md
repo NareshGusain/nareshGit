@@ -7,6 +7,7 @@ In this exercise we will role play as team of 4 and practice git workflows.
 2. create a repo with this template. 
 3. follow the speakers instructions.
 4. enjoy your learning!
+this is sharukhali syed
 
 ## commands 
 This are the git commands you will need for this exercise.  
